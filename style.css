@@ -1,0 +1,49 @@
+.heading-1{
+
+color :purple; 
+background-color: rgba(228, 217, 224, 0.678);
+}
+
+.heading-2,.heading-3{
+    color :rgb(13, 86, 146);
+    margin: 20px;
+    background-color: thistle;
+    font-size: 35px;
+}
+
+h3{
+
+    text-align: left;
+    
+     
+    margin: 15px;
+    
+     
+}
+p{
+
+    color:rgb(228, 10, 10);
+   text-decoration:underline;
+   margin: 10px;
+  
+}
+
+.UL{
+    color: rgba(92, 9, 67, 0.678);
+    font-size: larger;
+    font-style: italic;
+    margin: 10px;
+}
+.submit{
+color: rgb(11, 6, 58);
+font-size: x-large;
+background-color: springgreen;
+}
+
+label, input ,textarea{
+
+    font-size: large;
+    margin: 20px;
+    color: rgba(116, 25, 25, 0.863);
+    font-weight: bold ;
+}
